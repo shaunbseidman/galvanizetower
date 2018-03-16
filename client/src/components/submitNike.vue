@@ -35,7 +35,7 @@ export default {
     }
   },
   methods:{
-    addNewShoe() {
+    addNewShoe(entry) {
       alert('submitted')
       let url2 = 'https://shoe-tracker.herokuapp.com/nike'
       fetch(url2, {

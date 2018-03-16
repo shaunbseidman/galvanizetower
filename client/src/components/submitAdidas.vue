@@ -56,7 +56,7 @@ export default {
         console.log(this.model);
       }
     )
-    }
+  },
   }
 }
 </script>
