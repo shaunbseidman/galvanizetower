@@ -1,3 +1,5 @@
+server side repo: https://github.com/shaunbseidman/towerserverside
+
 front end url: http://cute-middle.surge.sh/#/
 
 back end url1: https://shoe-tracker.herokuapp.com/adidas
